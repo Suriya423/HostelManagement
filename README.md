@@ -7,8 +7,8 @@ help user in case of registration and searching the information about residents
 and rooms. The aim is to providing faster to access the data and following 
 addition, upgradation, modification and deletion.
 
+• Database: DERBY 
 • Language Used: Java 
-• Database: DERBY  
 • Web Browser: Mozilla, Chrome or Internet Explorer 8(or newer)  
 • Software: Netbeans  
 • Operating System: Windows XP or higher versions 
