@@ -8,7 +8,7 @@ and rooms. The aim is to providing faster to access the data and following
 addition, upgradation, modification and deletion.
 
 • Language Used: Java 
-• Database: DERBY 
+• Database: DERBY  
 • Web Browser: Mozilla, Chrome or Internet Explorer 8(or newer)  
 • Software: Netbeans  
 • Operating System: Windows XP or higher versions 
